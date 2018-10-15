@@ -1,3 +1,11 @@
-# pure-css-colorful-tabs
+# Pure CSS Colorful Tabs
+CodePlayer Pure CSS Colorful Tabs Project. Made with HTML &amp; CSS.
 
-CodePlayer Pure CSS Colorful Tabs Project 
+## Instructions
+Clone or download zip file. Open index.html file in your browser.
+
+## Contributing
+This repository is based on starter code from TheCodePlayer. Therefore I will not be accepting any pull requests.
+
+## Acknowledgements
+* TheCodePlayer
