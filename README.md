@@ -1,11 +1,14 @@
 # Pure CSS Colorful Tabs
-CodePlayer Pure CSS Colorful Tabs Project. Made with HTML and CSS.
+Colorful tabs that you can click to change the background
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
+3. The tabs will be on the left side of the screen as rectangles. Click on each tab to change the colors.
 
 ## Acknowledgements
 * TheCodePlayer.com
